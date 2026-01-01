@@ -1,0 +1,14 @@
+Report Title: Quarterly Summary
+
+		This line starts with tabs.
+
+
+
+Multiple blank lines above.
+
+• Bullet 1
+• Bullet 2
+
+Footer: Company Confidential
+Footer: Company Confidential
+Footer: Company Confidential

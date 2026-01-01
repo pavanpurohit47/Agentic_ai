@@ -1,0 +1,12 @@
+ACME SUPPORT PORTAL — INTERNAL USE ONLY
+------------------------------------------
+
+Hello   team,
+
+This   is    a    test document.  
+
+It contains    extra spaces,    odd line breaks,
+and some unicode like café, naïve, and “smart quotes”.
+
+ACME SUPPORT PORTAL — INTERNAL USE ONLY
+Page 1
